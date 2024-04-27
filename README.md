@@ -1,4 +1,4 @@
-![28](https://github.com/hajarhoumadi/enset-app/assets/110836199/9f7a6ed3-c51b-46cf-93c4-ba96af29e106)<center><h3 style="color:Tomato;">Compte rendu</h3></center>
+<center><h3 style="color:Tomato;">Compte rendu</h3></center>
 <h5>1- Création d'un nouveau projet Angular nommé "enset-app" en utilisant Angular CLI.</h5>
 <img width="836" alt="1" src="https://github.com/hajarhoumadi/enset-app/assets/110836199/a00f6349-a15b-49b4-9071-ea5e2881100d">
 <h5>2- Affichage de la page de démarrage de l'application Angular.</h5>
